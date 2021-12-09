@@ -57,4 +57,4 @@ Choosing the right language depends on your situation. Here are some things to c
 Note that many tools, such as Microsoft Machine Learning Server, support both R and Python. That’s why most organizations use a combination of both languages, and the R vs. Python debate is all for naught. In fact, you might conduct early-stage data analysis and exploration in R and then switch to Python when it’s time to ship some data products.
 
 Learn more about Python and R
-For computer science purists, Python stands out as the right programming language for data science every time. Meanwhile, R has its own champions. See for yourself on development communities like Stack Overflow. To learn more about the possibilities for data analysis via Python and R, consider exploring the following Learn Hub articles. Checking out the languages of data science tutorial on the IBM Developer Hub is also recommended.
+For computer science purists, Python stands out as the right programming language for data science every time. Meanwhile, R has its own champions. See for yourself on development communities like Stack Overflow. 
